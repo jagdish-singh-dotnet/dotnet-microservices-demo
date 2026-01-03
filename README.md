@@ -1,7 +1,7 @@
 ﻿# DotNet Microservices Demo (ASP.NET Core / .NET 8)
 
 <p align="center">
-  <img src="docs/images/architecture-diagram.png" alt="Microservices Architecture" width="900">
+  <img src="architecture-diagram.png" alt="Microservices Architecture" width="900">
 </p>
 
 This repository contains a **manually created microservices demo** built using **ASP.NET Core (.NET 8)**.
